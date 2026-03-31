@@ -1,1 +1,1 @@
-<DEMOhttps://kimkivari99.github.io/Simple-Website/>
+[DEMO](https://kimkivari99.github.io/Simple-Website/)
